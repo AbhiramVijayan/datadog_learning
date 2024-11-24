@@ -266,5 +266,3 @@ services:
     depends_on:
       - frontend
     command: bash puppeteer.sh
-
-    
